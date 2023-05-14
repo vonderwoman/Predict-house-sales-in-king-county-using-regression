@@ -101,7 +101,11 @@ streamlit run app.py
     Streamlit Documentation
     Scikit-Learn Documentation
     Seaborn Documentation
-    
+
+# App Deployed on Streamlit
+![app_deployed](https://github.com/vonderwoman/Predict-house-sales-in-king-county-using-regression/blob/main/asset/gif2_streamlit.gif)
+
+
 # License
 
 This project is licensed under the MIT License.
