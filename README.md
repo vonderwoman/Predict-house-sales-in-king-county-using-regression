@@ -55,6 +55,17 @@ The project is structured as follows:
 
 - Saving the model: The code saves the best polynomial regression model to a file named "polynomial_regression_model.pkl" using the pickle module.
 
+# Some Visualization Output
+
+## Prediction of Regression line
+![Predicted Regression Line](https://github.com/vonderwoman/Predict-house-sales-in-king-county-using-regression/blob/main/Output/Predicted%20Regression%20Line.png)
+
+## Pearson Correlation Matrix
+![Pearson Correlation Matrix](https://github.com/vonderwoman/Predict-house-sales-in-king-county-using-regression/blob/main/Output/Pearson%20Correlation%20Matrix.png)
+
+## Correlation of bedroom/bathroom features with the target variable
+![Correlation of bedroom/bathroom features with the target variable](https://github.com/vonderwoman/Predict-house-sales-in-king-county-using-regression/blob/main/Output/Boxplot-for-some-features.png)
+
 # Instructions
 
 To run this project, follow these steps:
